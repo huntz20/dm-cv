@@ -33,7 +33,8 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: 'Huntz Your Humble DM',
-  description: "I'm Huntz, a professional Dungeon Master with 5+ years of experience crafting unforgettable tabletop adventures.",
+  description:
+    "I'm Huntz, a professional Dungeon Master with 5+ years of experience crafting unforgettable tabletop adventures.",
 };
 
 /**
@@ -82,7 +83,8 @@ export const heroData: Hero = {
  * About section
  */
 export const aboutData: About = {
-  profileImageSrc: 'https://cdn.discordapp.com/avatars/432262122815225867/4e6bc06fee7ff0cbbeea78ec2087b319.webp?size=240',
+  profileImageSrc:
+    'https://cdn.discordapp.com/avatars/432262122815225867/4e6bc06fee7ff0cbbeea78ec2087b319.webp?size=240',
   description: `I’m a professional Dungeon Master offering immersive, character-driven adventures tailored to your party’s style. I’m experienced with D&D 5e, Vaesen, Ten Candles, and more and I run games with a strong narrative arc, emotional depth, and plenty of room for creative player agency. Whether you're looking for a one-shot, a long-term campaign, or a spooky horror session, I provide a safe, inclusive, and unforgettable experience for players of all backgrounds.`,
   aboutItems: [
     {label: 'Location', text: 'Jakarta - Bogor', Icon: MapIcon},
@@ -414,7 +416,7 @@ export const testimonial: TestimonialSection = {
   testimonials: [
     {
       name: 'Riyan',
-      text: 'In Bang Hunts\' DMing, I feel comfortable. You give your players the freedom to do anything, but every choice has a consequence. The spotlight distribution is also good. Your storytelling and worldbuilding are amazing you\'re patient, not quick-tempered, and you understand your players.',
+      text: "In Bang Hunts' DMing, I feel comfortable. You give your players the freedom to do anything, but every choice has a consequence. The spotlight distribution is also good. Your storytelling and worldbuilding are amazing you're patient, not quick-tempered, and you understand your players.",
       image: 'https://cdn.discordapp.com/avatars/342139247546990593/6f7e7d40e4e510c32d917d75d99ca107.webp?size=240',
     },
   ],
