@@ -14,7 +14,6 @@ import porfolioImage8 from '../images/portfolio/portfolio-8.jpg';
 import porfolioImage9 from '../images/portfolio/portfolio-9.jpg';
 import porfolioImage10 from '../images/portfolio/portfolio-10.jpg';
 import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
-import profilepic from '../images/profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
   About,
@@ -33,8 +32,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  title: 'Huntz Your Humble DM',
+  description: "I'm Huntz, a professional Dungeon Master with 5+ years of experience crafting unforgettable tabletop adventures.",
 };
 
 /**
@@ -83,7 +82,7 @@ export const heroData: Hero = {
  * About section
  */
 export const aboutData: About = {
-  profileImageSrc: profilepic,
+  profileImageSrc: 'https://cdn.discordapp.com/avatars/432262122815225867/4e6bc06fee7ff0cbbeea78ec2087b319.webp?size=240',
   description: `I’m a professional Dungeon Master offering immersive, character-driven adventures tailored to your party’s style. I’m experienced with D&D 5e, Vaesen, Ten Candles, and more and I run games with a strong narrative arc, emotional depth, and plenty of room for creative player agency. Whether you're looking for a one-shot, a long-term campaign, or a spooky horror session, I provide a safe, inclusive, and unforgettable experience for players of all backgrounds.`,
   aboutItems: [
     {label: 'Location', text: 'Jakarta - Bogor', Icon: MapIcon},
@@ -413,11 +412,11 @@ export const experience: TimelineItem[] = [
 export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
-    // {
-    //   name: 'Zlosky',
-    //   text: 'Huntz can make ',
-    //   image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
-    // },
+    {
+      name: 'Riyan',
+      text: 'In Bang Hunts\' DMing, I feel comfortable. You give your players the freedom to do anything, but every choice has a consequence. The spotlight distribution is also good. Your storytelling and worldbuilding are amazing you\'re patient, not quick-tempered, and you understand your players.',
+      image: 'https://cdn.discordapp.com/avatars/342139247546990593/6f7e7d40e4e510c32d917d75d99ca107.webp?size=240',
+    },
   ],
 };
 
