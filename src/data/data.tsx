@@ -419,6 +419,22 @@ export const testimonial: TestimonialSection = {
       text: "In Bang Hunts' DMing, I feel comfortable. You give your players the freedom to do anything, but every choice has a consequence. The spotlight distribution is also good. Your storytelling and worldbuilding are amazing you're patient, not quick-tempered, and you understand your players.",
       image: 'https://cdn.discordapp.com/avatars/342139247546990593/6f7e7d40e4e510c32d917d75d99ca107.webp?size=240',
     },
+    {
+      name: 'Badar',
+      text: "After nearly a year playing with you, I genuinely loved your DMing style so much that I even adopted parts of it myself. You gave players the freedom to do whatever they wanted, yet subtly guided us to stay on track. Your creativity and descriptiveness stood out—especially during combat, like that chaotic haunted house scene, which was wild but so fun! Even the silly offline guessing games added a lot of charm. Your homebrew systems, particularly the one about money that forced us to scavenge early on, really enhanced the survival vibe. As a newbie back then, I felt completely satisfied and immersed in your game.",
+      image: 'https://cdn.discordapp.com/avatars/495934811844640778/cbcfe0e7c999665eaac3c587783595a8.png?size=240',
+    },
+    {
+      name: 'Vienna',
+      text: "You’re a great DM, Bang Huntz. Your stories always carry depth and a darker edge, which I really enjoy. You clearly understand the world, the gods, the rules—even the nitty-gritty mechanics. Your characters think and act with purpose, though sometimes their voices sound a bit too similar for me. Would love to see more variety there. But overall, if the session needs tension, puzzles, or social depth—you’re the one I trust.",
+      image: 'https://cdn.discordapp.com/avatars/822333678855913492/9d81fd767b37d961d37893dc3f1bea7e.png?size=240',
+    },
+    {
+      name: 'Kuda',
+      text: "Hi! I’m Kuda, a.k.a. Labib, and I’m one of the players in the Euditia side story titled Thalassa Island Anomaly. I really enjoy how Bang Huntz manages to keep the story progressing smoothly, even though the pace is shaped by the players’ choices.\n" +
+        "The world-building feels rich and alive, yet our characters still get to leave a mark—not just through our actions during the campaign, but also through the backstories we bring with us.",
+      image: 'https://cdn.discordapp.com/avatars/659766155971657760/dad8718abc122e492aeed8a3f8ca6d2a.png?size=240',
+    },
   ],
 };
 
